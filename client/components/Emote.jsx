@@ -4,7 +4,7 @@ import { Card } from "@heroui/card";
 import { Button } from "@heroui/button";
 
 const socket = io(
-  "https://fantastic-pancake-r4rp9xjw7659h5vjv-8000.app.github.dev/"
+  "https://vague-saudra-prasad-pathare-0208130a.koyeb.app/"
 );
 
 function Emote() {
